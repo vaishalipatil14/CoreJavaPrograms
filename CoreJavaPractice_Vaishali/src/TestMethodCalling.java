@@ -10,6 +10,14 @@ public class TestMethodCalling {
 		System.out.println("in m2 method");
 
 	}
+	void m4() {
+		System.out.println("in m2 method");
+
+	}
+
+	void m3() {
+		System.out.println("in m3 method");
+	}
 
 	public static void main(String[] args) {
 		TestMethodCalling t = new TestMethodCalling();
